@@ -31,7 +31,7 @@ a {
   color: #000000;
 }
 
-.nav-list-links {
+.nav-links {
   font-weight: 500;
   font-size: 14px;
   line-height: 1.142;
@@ -48,7 +48,11 @@ a {
 }
 
 .contact-info {
-  color: #757575;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.142;
+  letter-spacing: 0.02em;
+  color: var(--second-level-color);
 }
 .contact-info:hover,
 .contact-info:focus {
@@ -135,6 +139,18 @@ a {
 
 .footer-logo-style {
   color: #ffffff;
+}
+
+.main-contacts{font-family: inherit;
+font-style: inherit;}
+}
+
+.google-maps{
+font-weight: 400;
+font-size: 14px;
+line-height: 1.714;
+letter-spacing: 0.03em;
+color: #FFFFFF;
 }
 
 .address-on-map {
