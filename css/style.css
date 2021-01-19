@@ -5,7 +5,7 @@
 }
 
 body {
-  color: #212121;
+  color: var(--mostly-used-color);
   font-family: Roboto, sans-serif;
 }
 
